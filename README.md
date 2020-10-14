@@ -32,4 +32,4 @@ Já as versões `JantarInanicao` e `JantarFuncional` ficam executando até ser p
 
  ## Referências
  ###### (TANENBAUM E BOS, 2016)
- TANENBAUM, A. S.; BOS, H. **Sistemas operacionais modernos**. 4. ed. São Paulo : Perason, 2016.
+ TANENBAUM, A. S.; BOS, H. **Sistemas operacionais modernos**. 4. ed. São Paulo : Pearson, 2016.
